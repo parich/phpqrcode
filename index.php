@@ -1,5 +1,5 @@
 <?php    
-/*
+/* test test
  * PHP QR Code encoder
  *
  * Exemplatory usage
